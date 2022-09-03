@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other developers, desingners and mentors who can help scale my growth in either track 🤝.
 - 🤔 I’m looking for help with internship roles and actual real-life projects to get my hands dirty 😤.
 - 💬 Ask me about how and when you want us to work together.
-- 📫 How to reach me: Via my linkedIn   https://www.linkedin.com/in/osamagioghomwenwi-oghagbon-9a5840191/
+- 📫 How to reach me: Via my linkedIn   https://www.linkedin.com/in/osamagioghomwenwi-oghagbon-9a591/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I read books in my leisure time and Sidney Sheldon is my favourite author🤗. Oh, and I play basketball🏀😊.
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h2  align="center">📫 Connect with me </h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/osamagioghomwenwi-oghagbon-9a5840191/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/osamagioghomwenwi-oghagbon-9a58401/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/worldwideRaay"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:oghomwenoghagbon@gmail.com?subject=Hello%20Raaymii%20Oghagbon,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
