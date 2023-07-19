@@ -3,7 +3,7 @@
 
 _*<p align="center">I'm excited to leverage my skills as part of a fast-paced,quality-driven team to build better experiences on the web.</p>*_
 
-<p align="center"> (Open for Hiring)</p>
+<!-- <p align="center"> (Open for Hiring)</p> -->
 
 <hr>
 <h1 align="center"> I'm a Front-End Developer</h1>
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript, React, Next.js and Typescript.
 - 👯 I’m looking to collaborate with other developers, desingners and mentors who can help scale my growth in this track.
 - 🤔 I’m looking for help with internship roles and actual real-life projects to get my hands dirty 😤.
-- 📫 How to reach me: Via my linkedIn   [https://www.linkedin.com/in/osamagioghomwenwi-oghagbon-9a591/](https://www.linkedin.com/in/raaymii-oghagbon-9a5840191/)
+- 📫 How to reach me: Via my [LinkedIn](https://www.linkedin.com/in/raaymii-oghagbon-9a5840191/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I read books in my leisure time and Sidney Sheldon is my favourite author🤗. Oh, and I play basketball🏀😊.
 
